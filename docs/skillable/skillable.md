@@ -2,7 +2,7 @@
 
 ## Welcome to ILL335
 
-This AI Tour lab is **Building & Deploying AI Agents with Microsoft Foundry**.
+This Frontier Tour lab is **Building & Deploying AI Agents with Microsoft Foundry**.
 
 To begin, log in to the virtual machine with:
 +++@lab.VirtualMachine(ILL335:Win11).Password+++
