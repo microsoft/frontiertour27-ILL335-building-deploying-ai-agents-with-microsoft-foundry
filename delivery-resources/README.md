@@ -2,16 +2,16 @@
 
 **Building & Deploying AI Agents with Microsoft Foundry**
 
-This folder contains the presenter and attendee decks plus the guidance needed to run **ILL335** at AI Tour or re-deliver it at user groups, internal enablement sessions, community events, and customer workshops.
+This folder contains the presenter and attendee decks plus the guidance needed to run **ILL335** at Frontier Tour or re-deliver it at user groups, internal enablement sessions, community events, and customer workshops.
 
-The current lab is built for the AI Tour FY27 Skillable environment. Attendee projects and model deployments are pre-provisioned; self-paced presenters can use [`../setup/SETUP.md`](../setup/SETUP.md) to create an equivalent environment.
+The current lab is built for the Frontier Tour FY27 Skillable environment. Attendee projects and model deployments are pre-provisioned; self-paced presenters can use [`../setup/SETUP.md`](../setup/SETUP.md) to create an equivalent environment.
 
 ## Core materials
 
 | Item | Link | Notes |
 | --- | --- | --- |
-| Delivery deck | [ILL335 Presentation](https://github.com/microsoft/aitour27-ILL335-building-deploying-ai-agents-with-microsoft-foundry/blob/main/delivery-resources/ILL335-Attendee-Walkthrough-FY27.pptx)  | PowerPoint presentation |
-| Session recording | [ILL335 Video](https://aka.ms/aitour27/ILL335/youtube) | Video delivery |
+| Delivery deck | [ILL335 Presentation](https://github.com/microsoft/frontiertour27-ILL335-building-deploying-ai-agents-with-microsoft-foundry/blob/main/delivery-resources/ILL335-Attendee-Walkthrough-FY27.pptx)  | PowerPoint presentation |
+| Session recording | [ILL335 Video](https://aka.ms/ft27/ill335/youtube) | Video delivery |
 
 ---
 
@@ -162,9 +162,9 @@ If an attendee leaves with only one of these, make it #1 (Foundry + OpenAI SDK p
 
 - Recap the journey in one breath: *catalog → project → first call → consumer sentiment analysis pipeline → hosted agent.*
 - Call out **Lab 5** as a self-paced extension — attendees compare gpt-5.4-mini vs gpt-5.4 at home, including the hybrid "cheap first, escalate when uncertain" pattern.
-- Point to related AI Tour sessions listed in the current event agenda.
+- Point to related Frontier Tour sessions listed in the current event agenda.
 - Direct attendees to:
-  - The AI Tour ILL335 lab repository supplied with the session
+  - The Frontier Tour ILL335 lab repository supplied with the session
   - [Microsoft Foundry docs](https://learn.microsoft.com/azure/ai-foundry/)
   - [Microsoft AI learning hub](https://learn.microsoft.com/ai/)
 - Take questions in chat / Q&A — don't run over.
@@ -209,11 +209,11 @@ You are welcome and encouraged to re-deliver this content. A few asks:
 - **Keep the Caldova narrative** — it ties this lab to the broader Microsoft Foundry demo storyline (an AI developer on Caldova's commercial digital and customer engagement team building a B2C consumer sentiment analysis application).
 - **Use the latest version** of the repo from GitHub. Lab steps and SDK calls evolve; pin yourself to `main`.
 - **Don't commit secrets** to forks. Every demo subscription has its own `.env`. See [AGENTS.md](../AGENTS.md).
-- **Cite the source** on your title slide as *Microsoft AI Tour ILL335*.
+- **Cite the source** on your title slide as *Microsoft Frontier Tour ILL335*.
 - **Adapt the timing** as needed:
   - **30-min lightning version:** Intro + Lab 1 + Lab 3 + Lab 7 (skip provisioning, use a pre-built project)
   - **60-min meetup version:** Intro + Labs 1–4 + Lab 7
-  - **Full 75-min AI Tour version:** as documented above
+  - **Full 75-min Frontier Tour version:** as documented above
   - **Half-day workshop:** all labs including Lab 5 (model comparison), with longer hands-on time per section
 
 ---

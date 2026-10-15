@@ -18,7 +18,7 @@ This file contains instructions and guidelines for AI agents working on this rep
 ## 📋 Repository Guidelines
 
 ### Purpose
-This repository is an AI Tour session content repository and should:
+This repository is a Frontier Tour session content repository and should:
 - Provide clear, actionable content for session attendees
 - Support self-guided learning for remote/at-home learners
 - Keep navigation and delivery guidance aligned with [README.md](README.md) and the [lab guides](docs/README.md).

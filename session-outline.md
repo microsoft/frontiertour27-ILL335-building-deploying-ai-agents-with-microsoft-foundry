@@ -1,4 +1,4 @@
-# AI Tour Session Outline
+# Frontier Tour Session Outline
 
 **Title of session:** Building & Deploying AI Agents with Microsoft Foundry
 
@@ -62,7 +62,7 @@ Deploy the Caldova consumer sentiment analysis logic as a hosted agent using the
 **Lab 7: Summary, Key Takeaways, Q&A, and Next Steps**
 5 min | Lee Stott
 Content: SPEAKER-ONLY, GRAPHICS
-Recap the full journey: model discovery → project setup → first inference → sentiment analysis pipeline → hosted agent. Point attendees to Lab 5 (model comparison) as a self-paced extension. Share related AI Tour resources and next steps. Take audience questions through chat.
+Recap the full journey: model discovery → project setup → first inference → sentiment analysis pipeline → hosted agent. Point attendees to Lab 5 (model comparison) as a self-paced extension. Share related Frontier Tour resources and next steps. Take audience questions through chat.
 
 ---
 
@@ -84,7 +84,7 @@ This lab targets developers and AI engineers who are evaluating Microsoft Foundr
 
 - **Resource 1:** [Microsoft Foundry documentation](https://learn.microsoft.com/azure/ai-foundry/) — Official docs for Foundry projects, models, and agents
 - **Resource 2:** [OpenAI Responses API](https://learn.microsoft.com/azure/foundry/openai/how-to/responses) — Reference for the API pattern used in this lab
-- **Resource 3:** AI Tour ILL335 lab repository — Complete source code, lab instructions, and infrastructure templates supplied with the session
+- **Resource 3:** Frontier Tour ILL335 lab repository — Complete source code, lab instructions, and infrastructure templates supplied with the session
 - **Resource 4:** [Azure Developer CLI documentation](https://learn.microsoft.com/azure/developer/azure-developer-cli/) — Getting started with azd for provisioning and deploying
 - **Resource 5:** [Foundry Toolkit for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) — Extension for working with Foundry projects in VS Code
-- **Resource 6:** [Microsoft AI learning hub](https://learn.microsoft.com/ai/) — Continue the learning journey after AI Tour
+- **Resource 6:** [Microsoft AI learning hub](https://learn.microsoft.com/ai/) — Continue the learning journey after Frontier Tour

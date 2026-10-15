@@ -1,6 +1,6 @@
 ---
 name: ill335-lab-navigator
-description: Guides learners through AI Tour ILL335, Building & Deploying AI Agents with Microsoft Foundry. Use when a learner asks where to start, what lab to complete next, how the labs connect, or how to resume the workshop.
+description: Guides learners through Frontier Tour ILL335, Building & Deploying AI Agents with Microsoft Foundry. Use when a learner asks where to start, what lab to complete next, how the labs connect, or how to resume the workshop.
 license: MIT
 ---
 
